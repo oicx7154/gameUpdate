@@ -8,6 +8,7 @@
     "樱花摊位": {
       "places": ["8534845015"],
       "version": "2.0.0",
+      "": "2026/7/13",
       "changelog": "~ 1.进行了一点UI优化\n",
       "type": "release",
       "force": false
