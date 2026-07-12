@@ -7,7 +7,7 @@
   "games": {
     "SS": {
       "places": ["8534845015"],
-      "version": "9.9.9",
+      "version": "1.9.0",
       "changelog": "+ 自动开宝箱\n~ 优化拾取\n! 修复BUG",
       "type": "release",
       "force": false
