@@ -1,7 +1,8 @@
 {
   "global": {
     "notice": "系统维护中",
-    "minLoaderVersion": "1.0.0"
+    "minLoaderVersion": "1.0.0",
+    "maintenance": false
   },
   "games": {
     "SS": {
