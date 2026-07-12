@@ -1,0 +1,15 @@
+{
+  "global": {
+    "notice": "系统维护中",
+    "minLoaderVersion": "1.0.0"
+  },
+
+  "games": {
+    "MainGame": {
+      "places": ["8534845015"],
+      "version": "2.0.0",
+      "changelog": "+ 自动开宝箱\n~ 优化拾取\n! 修复BUG",
+      "force": false
+    },
+  }
+}
