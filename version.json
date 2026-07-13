@@ -12,6 +12,31 @@
       "changelog": "! 1.自动储存物品",
       "type": "release",
       "force": false
+    },
+    "殊途旅人": {
+      "places": [""],
+      "version": "1.0.0",
+      "time": "??",
+      "changelog": "+ 1.",
+      "type": "release",
+      "force": false
+    },
+    "福瑞医院": {
+      "places": ["104522435597696"],
+      "version": "1.0.0",
+      "time": "??",
+      "changelog": "+ 1.防止掉理智",
+      "type": "release",
+      "force": false
+    },
+    "Reign Fall": {
+      "places": ["11765763028"],
+      "version": "1.0.0",
+      "time": "2026/7/13",
+      "changelog": "+1.杀戮光环\n+2.透视\n+3.",
+      "type": "release",
+      "force": false
     }
+    
   }
 }
