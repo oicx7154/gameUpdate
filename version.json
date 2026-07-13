@@ -7,9 +7,9 @@
   "games": {
     "樱花摊位": {
       "places": ["8534845015"],
-      "version": "2.0.0",
+      "version": "2.1.0",
       "time": "2026/7/13",
-      "changelog": "~ 1.进行了一点UI优化\n",
+      "changelog": "~ 1.优化了自动开宝箱\n+ 2.自动储存物品",
       "type": "release",
       "force": false
     }
