@@ -34,10 +34,10 @@
     },
     "Reign Fall": {
       "places": ["11765763028"],
-      "version": "1.1.0",
+      "version": "1.2.0",
       "time": "2026/7/14",
-      "changelog": "",
-      "changelogbefore": "+1.杀戮光环\n+2.透视\n+3.",
+      "changelog": "+1.更新个人数据\n+2.金钱透视",
+      "changelogbefore": "+1.杀戮光环\n+2.透视",
       "type": "release",
       "force": false
     }
