@@ -9,7 +9,7 @@
       "places": ["8534845015"],
       "version": "2.2.8",
       "time": "2026/7/25",
-      "changelog": "~1.自动出售\n+2.自动出售果实\n3.更新主页的一些小东西",
+      "changelog": "~1.自动出售\n+2.自动出售果实\n~3.更新主页的一些小东西",
       "changelogbefore": "!1.自动储存物品",
       "type": "release",
       "force": false
