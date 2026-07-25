@@ -7,9 +7,9 @@
   "games": {
     "樱花摊位": {
       "places": ["8534845015"],
-      "version": "2.2.5",
-      "time": "2026/7/14",
-      "changelog": "1.Nothing",
+      "version": "2.2.6",
+      "time": "2026/7/25",
+      "changelog": "~1.自动出售\n+2.自动出售果实",
       "changelogbefore": "!1.自动储存物品",
       "type": "release",
       "force": false
