@@ -20,7 +20,7 @@
       "time": "??",
       "changelog": "+ 1.",
       "changelogbefore": "1.",
-      "type": "release",
+      "type": "dev",
       "force": false
     },
     "福瑞医院": {
@@ -29,7 +29,7 @@
       "time": "??",
       "changelog": "+ 1.防止掉理智",
       "changelogbefore": "1.",
-      "type": "release",
+      "type": "dev",
       "force": false
     },
     "Reign Fall": {
