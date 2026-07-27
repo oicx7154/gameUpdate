@@ -40,6 +40,15 @@
       "changelogbefore": "+1.杀戮光环\n+2.透视",
       "type": "release",
       "force": false
+    },
+    "储存猎人": {
+      "places": ["98800969324557"],
+      "version": "1.0.0",
+      "time": "2026/7/??",
+      "changelog": "+1.自动拾取\n+2.透视物品\n+3.自动出售\n+4.自动出价\n+5.地点传送\n+6.传送玩家\n+7.即时互动",
+      "changelogbefore": "",
+      "type": "release",
+      "force": false
     }
     
   }
