@@ -50,6 +50,15 @@
       "type": "release",
       "force": false
     }
+    "RUNAWAYS": {
+      "places": ["118418618261207","117311404196294"],
+      "version": "1.0.0",
+      "time": "2026/8/16",
+      "changelog": "+1.子追\n+2.枪械无限子弹\n+3.杀戮光环\n+4.自动拾取",
+      "changelogbefore": "",
+      "type": "release",
+      "force": false
+    }
     
   }
 }
