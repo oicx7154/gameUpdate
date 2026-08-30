@@ -58,6 +58,15 @@
       "changelogbefore": "",
       "type": "release",
       "force": false
+    },
+    "Ohio": {
+      "places": ["7239319209"],
+      "version": "1.0.0",
+      "time": "2026/8/30",
+      "changelog": "+1.皮肤设置\n+2.光环\n+3.获取美金气球",
+      "changelogbefore": "",
+      "type": "dev",
+      "force": false
     }
     
   }
