@@ -15,7 +15,7 @@
       "force": false
     },
     "殊途旅人": {
-      "places": [""],
+      "places": [],
       "version": "1.0.0",
       "time": "??",
       "changelog": "+ 1.",
@@ -68,7 +68,6 @@
       "type": "release",
       "force": false
     },
-    {
     "通用": {
       "places": [],
       "version": "1.0.0",
