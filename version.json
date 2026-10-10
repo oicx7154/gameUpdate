@@ -62,12 +62,21 @@
     "Ohio": {
       "places": ["7239319209"],
       "version": "2.0.0",
-      "time": "2026/8/30",
+      "time": "2026/10/9",
       "changelog": "!1.皮肤设置\n+2.光环\n!3.获取美金气球\n+4.枪械设置\n+5.完善光环\n+6.绕过\n+7.自动功能",
       "changelogbefore": "+1.皮肤设置\n+2.光环\n+3.获取美金气球",
       "type": "release",
       "force": false
+    },
+    {
+    "通用": {
+      "places": [],
+      "version": "1.0.0",
+      "time": "2026/10/10",
+      "changelog": "+1.添加通用脚本",
+      "changelogbefore": "",
+      "type": "release",
+      "force": false
     }
-    
   }
 }
