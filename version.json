@@ -79,10 +79,10 @@
     },    
     "Project Mirror Labyrinth": {
       "places": ["81531015104161"],
-      "version": "1.0.0",
+      "version": "2.0.0",
       "time": "2026/11/20",
-      "changelog": "+1.自动锁定\n+2.自动攻击\n+4.自动获取奖励\n+5.自动重试\n+6.自动选关\n+7.自动休息",
-      "changelogbefore": "",
+      "changelog": "+1.自动boss投票",
+      "changelogbefore": "+1.自动锁定\n+2.自动攻击\n+4.自动获取奖励\n+5.自动重试\n+6.自动选关\n+7.自动休息",
       "type": "定制",
       "force": false
     }
