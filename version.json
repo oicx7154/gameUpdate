@@ -79,10 +79,10 @@
     },    
     "Project Mirror Labyrinth": {
       "places": ["81531015104161"],
-      "version": "2.0.0",
-      "time": "2026/11/20",
-      "changelog": "+1.自动boss投票",
-      "changelogbefore": "+1.自动锁定\n+2.自动攻击\n+4.自动获取奖励\n+5.自动重试\n+6.自动选关\n+7.自动休息",
+      "version": "2.5.0",
+      "time": "2026/11/21",
+      "changelog": "~1.自动获取奖励\n+2.添加选择boss检测开关,当未检测到想要的boss时会重进\n+3.添加锁定目标优先级",
+      "changelogbefore": "+1.自动boss投票",
       "type": "定制",
       "force": false
     }
