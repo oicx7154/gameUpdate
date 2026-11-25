@@ -79,10 +79,10 @@
     },    
     "Project Mirror Labyrinth": {
       "places": ["81531015104161"],
-      "version": "3.0.0",
+      "version": "3.5.0",
       "time": "2026/11/22",
-      "changelog": "+1.自动休息添加选项\n~2.修复锁定目标\n~3.自动获取奖励",
-      "changelogbefore": "~1.自动获取奖励\n+2.添加选择boss检测开关,当未检测到想要的boss时会重进\n+3.添加锁定目标优先级",
+      "changelog": "~1.修复自动选图,boss,获取奖励失效",
+      "changelogbefore": "+1.自动休息添加选项\n~2.修复锁定目标\n~3.自动获取奖励",
       "type": "定制",
       "force": false
     }
